@@ -6,6 +6,8 @@
 # For more information about the API go to
 # https://www.ibm.com/support/knowledgecenter/SSHKN6/iam/3.4.0/apis/directory_mgmt.html
 #
+# Default values match the default values of this OpenLDAP Helm Chart: https://github.com/ccavazos/cp4i-openldap
+#
 if ! [ -x "$(command -v oc)" ]; then
     echo "oc could not be found. Please install the OpenShift CLI."
     exit 1
