@@ -1,4 +1,4 @@
-# IBM Cloud Pak for Integration
+# IBM Cloud Pak for Integration IAM Configuration
 
 ## IAM Services Configuration Scripts
 
